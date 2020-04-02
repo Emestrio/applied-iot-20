@@ -12,7 +12,7 @@ If you have any questions, please let me know and I'll update the BOM. My contac
 * [Expansion board 3.0](https://pycom.io/product/expansion-board-3-0/)
 * [LoRa/SigFox antenna](https://pycom.io/product/lora-868mhz-915mhz-sigfox-antenna-kit/)
 
-You will get **20 % of your order** from Pycom with the code provided by mail when you registered to the course.
+You will get **20 % off your order** from Pycom with the code provided by mail when you registered to the course.
 
 ## What you also need is:
 
